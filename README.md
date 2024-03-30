@@ -313,7 +313,5 @@ clone this repository
 ## 🚀 About Me
 - [Check here](https://github.com/TheFatCow)
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
