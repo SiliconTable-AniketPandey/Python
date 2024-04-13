@@ -307,7 +307,7 @@ clone this repository
 
 ## Authors
 
-- [@Aniket Pandey/TheFatCow](https://github.com/TheFatCow)
+- [SiliconTable-AniketPandey](https://github.com/SiliconTable-AniketPandey)
 
 
 ## 🚀 About Me
